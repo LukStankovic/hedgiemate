@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord Community
+    url: https://discord.gg/h6vxuG4ZH8
+    about: Join our Discord for real-time help and community discussions
+  - name: Contact Support
+    url: https://hedgiemate.com/#contact
+    about: Contact us directly for private or urgent matters
+  - name: TeslaMate Documentation
+    url: https://docs.teslamate.org/
+    about: For TeslaMate-specific questions and setup guides
+  - name: TeslaMate API
+    url: https://github.com/tobiasehlert/teslamateapi
+    about: For TeslaMate API installation and configuration

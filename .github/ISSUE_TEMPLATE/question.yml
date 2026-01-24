@@ -1,0 +1,59 @@
+name: Question
+description: Ask a question about HedgieMate setup or usage
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have a question about HedgieMate? We're here to help!
+
+        **Before asking**, please check:
+        - [Setup Guide](https://hedgiemate.com/#setup)
+        - [FAQ](https://hedgiemate.com/faq/)
+        - [Existing Questions](https://github.com/LukStankovic/hedgiemate/issues?q=is%3Aissue+label%3Aquestion)
+
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic
+      description: What is your question about?
+      options:
+        - Setup / Installation
+        - TeslaMate API connection
+        - Remote access (VPN, Cloudflare, etc.)
+        - MyTeslaMate integration
+        - App features
+        - Subscription / Pro license
+        - Apple Watch
+        - Widgets
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: Please describe your question in detail
+      placeholder: "How do I..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Any relevant context that might help us answer your question
+      placeholder: "I'm trying to set up HedgieMate with..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: What steps have you already taken to find the answer?
+      placeholder: "I tried looking at the documentation and..."
+    validations:
+      required: false
