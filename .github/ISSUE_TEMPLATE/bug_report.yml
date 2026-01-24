@@ -1,0 +1,130 @@
+name: Bug Report
+description: Report a bug or issue with HedgieMate
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out the form below to help us understand and fix the issue.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-submission Checklist
+      description: Please confirm the following before submitting
+      options:
+        - label: I have searched existing issues to ensure this bug hasn't been reported
+          required: true
+        - label: I am using the latest version of HedgieMate from the App Store
+          required: true
+        - label: I have verified my TeslaMate server is running and accessible
+          required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Which device are you experiencing the issue on?
+      options:
+        - iPhone
+        - iPad
+        - Apple Watch
+        - Mac
+        - Vision Pro
+    validations:
+      required: true
+
+  - type: input
+    id: app-version
+    attributes:
+      label: App Version
+      description: "Found in Settings (e.g., 1.14.0)"
+      placeholder: "1.14.0"
+    validations:
+      required: true
+
+  - type: input
+    id: os-version
+    attributes:
+      label: OS Version
+      description: "e.g., iOS 26.2, watchOS 26.1"
+      placeholder: "iOS 26.2"
+    validations:
+      required: true
+
+  - type: input
+    id: device-model
+    attributes:
+      label: Device Model
+      description: "e.g., iPhone 16 Pro, Apple Watch Series 10"
+      placeholder: "iPhone 16 Pro"
+    validations:
+      required: true
+
+  - type: input
+    id: teslamate-api-version
+    attributes:
+      label: TeslaMate API Version
+      description: "Found in your docker-compose or API response (e.g., 1.23.0)"
+      placeholder: "1.23.0"
+    validations:
+      required: true
+
+  - type: input
+    id: teslamate-version
+    attributes:
+      label: TeslaMate Version
+      description: "Found in your docker-compose"
+      placeholder: "2.2.0"
+    validations:
+      required: true
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the bug is
+      placeholder: "When I open the charging history, the app crashes..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+      placeholder: "The charging history should display all my charging sessions..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Open HedgieMate
+        2. Navigate to Charging tab
+        3. Tap on a charging session
+        4. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If applicable, add screenshots to help explain your problem
+      placeholder: "Drag and drop images here or paste from clipboard"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here (network setup, VPN, Cloudflare, etc.)
+      placeholder: "I'm using Tailscale VPN to connect to my server..."
+    validations:
+      required: false
