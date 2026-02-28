@@ -5,7 +5,7 @@
 <h1 align="center">HedgieMate</h1>
 
 <p align="center">
-  <strong>Native iOS App for TeslaMate</strong>
+  <strong>HedgieMate — Tesla Analytics App, compatible with TeslaMate</strong>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## About
 
-HedgieMate is the most advanced native iOS app for [TeslaMate](https://docs.teslamate.org/). Skip the Grafana dashboards - HedgieMate brings your TeslaMate data directly to your pocket with a smooth, privacy-first design.
+HedgieMate is the most advanced native iOS Tesla analytics app, compatible with [TeslaMate](https://docs.teslamate.org/). Skip the Grafana dashboards — access your data directly from your pocket with a smooth, privacy-first design.
 
 **Your data stays on your server.** HedgieMate connects directly to your TeslaMate instance - no cloud, no tracking, no data collection. No subscriptions, no compromises.
 
@@ -150,3 +150,7 @@ Read our full [Privacy Policy](PRIVACY.md).
 - [TeslaMate Documentation](https://docs.teslamate.org/)
 - [TeslaMate API](https://github.com/tobiasehlert/teslamateapi)
 - [Changelog](CHANGELOG.md)
+
+---
+
+> **Disclaimer:** HedgieMate is an unofficial community tool and is not affiliated with, endorsed by, or supported by the official TeslaMate project.
