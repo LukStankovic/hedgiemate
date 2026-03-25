@@ -1,5 +1,47 @@
 # Changelog
 
+## [1.16.1] - 2026-03-25
+
+### Improved
+- App stability and overall performance
+- Faster navigation and optimized memory usage
+- Refined translations across all supported languages for a more natural experience
+
+### Fixed
+- General bug fixes and reliability improvements
+
+## [1.16.0] - 2026-02-16
+
+### Added
+- **Statistics**: Complete overview of driving and charging data with weekly stats, efficiency scores, and cost breakdowns
+- **Redesigned Charts**: Drive and charge details now show all data in a single unified chart instead of multiple separate graphs
+- **EV Savings Calculator**: Compare electricity costs against gas spending to see how much you save driving electric
+
+### Fixed
+- Bug fixes and performance improvements
+
+## [1.15.0] - 2026-02-10
+
+### Added
+- **Live Charging View**: Real-time monitoring with interactive power and battery level charts
+- Full support for TeslaMate API 1.24
+- Refreshed dashboard design with improved layout
+
+### Fixed
+- Bug fixes and performance improvements
+
+## [1.14.1] - 2026-02-04
+
+### Improved
+- Enhanced time display for vehicle status updates
+- Improved coordinate accuracy for China region maps
+
+### Added
+- Full Portuguese language support (Português)
+
+### Fixed
+- Bug fixes and stability improvements
+
 ## [1.14.0] - 2026-01-19
 
 ### Added
@@ -116,6 +158,10 @@
 ### Fixed
 - Bug fixes and performance improvements
 
+[1.16.1]: https://github.com/LukStankovic/hedgiemate/releases/tag/v1.16.1
+[1.16.0]: https://github.com/LukStankovic/hedgiemate/releases/tag/v1.16.0
+[1.15.0]: https://github.com/LukStankovic/hedgiemate/releases/tag/v1.15.0
+[1.14.1]: https://github.com/LukStankovic/hedgiemate/releases/tag/v1.14.1
 [1.14.0]: https://github.com/LukStankovic/hedgiemate/releases/tag/v1.14.0
 [1.13.0]: https://github.com/LukStankovic/hedgiemate/releases/tag/v1.13.0
 [1.12.5]: https://github.com/LukStankovic/hedgiemate/releases/tag/v1.12.5
