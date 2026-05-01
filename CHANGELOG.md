@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.17.0] - 2026-05-01
+
+### Added
+- **Shortcuts & Siri**: Run app actions through Shortcuts and Siri for quick access to your Tesla data
+- **Native macOS app**: HedgieMate now runs natively on Mac, with keyboard shortcuts for fast navigation
+- **Native Vision Pro app**: HedgieMate now runs natively on Apple Vision Pro
+
+### Changed
+- Route coloring choice is now saved between drives
+
+### Fixed
+- Bug fixes and improvements
+
 ## [1.16.1] - 2026-03-25
 
 ### Improved
@@ -158,6 +171,7 @@
 ### Fixed
 - Bug fixes and performance improvements
 
+[1.17.0]: https://github.com/LukStankovic/hedgiemate/releases/tag/v1.17.0
 [1.16.1]: https://github.com/LukStankovic/hedgiemate/releases/tag/v1.16.1
 [1.16.0]: https://github.com/LukStankovic/hedgiemate/releases/tag/v1.16.0
 [1.15.0]: https://github.com/LukStankovic/hedgiemate/releases/tag/v1.15.0
