@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.18.0] - 2026-06-04
+
+### Added
+- **Multi-Server**: Connect to multiple TeslaMate instances and switch between cars on different servers from a single app
+- **Suggested Trips**: HedgieMate spots road trips across your drives and offers to group them into one
+- **Custom date ranges**: Define your own date ranges and apply them with one tap across Statistics, Drives, and Charges
+- Thai and French language support
+
+### Fixed
+- Various polish and bug fixes
+
 ## [1.17.0] - 2026-05-01
 
 ### Added
