@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.18.1] - 2026-06-09
+
+### Added
+- **Plan trips ahead**: set a date range and the trip fills in as you drive, with Upcoming and Ongoing labels and one tap to end it
+
+### Changed
+- Clearer choice between MyTeslaMate and a self-hosted server when adding a connection
+
+### Fixed
+- Faster, smoother trip maps for long trips with lots of GPS data
+- Widget car switching and the active car no longer showing twice in the picker
+- Various polish and bug fixes
+
 ## [1.18.0] - 2026-06-04
 
 ### Added
