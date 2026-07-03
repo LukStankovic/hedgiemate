@@ -21,7 +21,7 @@ Check [existing requests](https://github.com/LukStankovic/hedgiemate/issues?q=is
 
 ### Translations
 
-Help make HedgieMate available in more languages on [Crowdin](https://crowdin.com/project/hedgiemate/invite?h=bff10a865074daf9d4e08ef064507e982646816).
+Help make HedgieMate available in more languages on <a href="https://translate.hedgiemate.com/" target="_blank" rel="noopener noreferrer">translate.hedgiemate.com</a>.
 
 Translation contributors receive a **free Pro license**.
 

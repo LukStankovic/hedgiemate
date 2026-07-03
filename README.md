@@ -71,8 +71,10 @@ Track parking history and analyze vampire drain patterns over time.
 
 ## Requirements
 
-- **iOS 18.0** or later (iPhone, iPad, Mac, Vision Pro)
-- **watchOS 11.0** or later (Apple Watch)
+- **iOS 18.0** or later (iPhone, iPad)
+- **macOS 15.0** or later (Mac)
+- **visionOS 26.0** or later (Apple Vision Pro)
+- **watchOS 11.6** or later (Apple Watch)
 - **TeslaMate** instance with [TeslaMate API](https://github.com/tobiasehlert/teslamateapi) (v1.21.0+)
 - Or [MyTeslaMate](https://www.myteslamate.com/) hosted service
 
@@ -122,7 +124,7 @@ HedgieMate is available in **12 languages**:
 - Türkçe (Turkish)
 - 中文 (Chinese)
 
-Want to help translate? [Join us on Crowdin](https://crowdin.com/project/hedgiemate/invite?h=bff10a865074daf9d4e08ef064507e982646816) and get a free Pro license!
+Want to help translate? <a href="https://translate.hedgiemate.com/" target="_blank" rel="noopener noreferrer">Join our translation community</a> and get a free Pro license!
 
 ---
 
