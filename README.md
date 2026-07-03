@@ -12,7 +12,7 @@
   <a href="https://apps.apple.com/us/app/hedgiemate-teslamate-app/id6751491642"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"></a>
   <a href="https://discord.gg/h6vxuG4ZH8"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <img src="https://img.shields.io/badge/iOS_18+-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS 18+">
-  <img src="https://img.shields.io/badge/Rating-5.0_★-FFD700?style=for-the-badge" alt="Rating 5.0">
+  <img src="https://img.shields.io/badge/Rating-4.8_★-FFD700?style=for-the-badge" alt="Rating 4.8">
 </p>
 
 <p align="center">
