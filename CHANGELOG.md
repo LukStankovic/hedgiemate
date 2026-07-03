@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.18.2] - 2026-07-02
+
+### Added
+- Step through previous and next periods in Statistics with a tap
+- Option to keep the tab bar always visible
+- Preconditioning and overheat protection energy shown in vehicle status
+- Polish language support
+
+### Fixed
+- Intermittent connection errors
+- Various bug fixes
+
 ## [1.18.1] - 2026-06-09
 
 ### Added
@@ -24,6 +36,13 @@
 ### Fixed
 - Various polish and bug fixes
 
+## [1.17.1] - 2026-05-02
+
+### Fixed
+- Siri Shortcuts now work on iPad and Mac
+- Faster and more stable Drives list, no more freezes or crashes on long histories
+- Various bug fixes and improvements
+
 ## [1.17.0] - 2026-05-01
 
 ### Added
@@ -36,6 +55,15 @@
 
 ### Fixed
 - Bug fixes and improvements
+
+## [1.16.2] - 2026-04-07
+
+### Added
+- Spanish language support
+
+### Fixed
+- Consumption calculation
+- Improvements based on user feedback and other minor bug fixes
 
 ## [1.16.1] - 2026-03-25
 

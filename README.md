@@ -34,9 +34,9 @@ HedgieMate is the most advanced native iOS Tesla analytics app, compatible with 
 
 <p align="center">
   <img src="docs/images/screenshots/app-preview-1.png" alt="Dashboard" width="200">
-  <img src="docs/images/screenshots/app-preview-2.png" alt="Statistics" width="200">
+  <img src="docs/images/screenshots/app-preview-2.png" alt="Drives" width="200">
   <img src="docs/images/screenshots/app-preview-3.png" alt="Charging" width="200">
-  <img src="docs/images/screenshots/app-preview-4.png" alt="Trips" width="200">
+  <img src="docs/images/screenshots/app-preview-4.png" alt="Analytics" width="200">
 </p>
 
 ---
@@ -107,15 +107,20 @@ For detailed setup instructions, visit our [Setup Guide](https://hedgiemate.com/
 
 ## Languages
 
-HedgieMate is available in **7 languages**:
+HedgieMate is available in **12 languages**:
 
 - English
-- Deutsch (German)
-- Italiano (Italian)
-- Türkçe (Turkish)
-- 한국어 (Korean)
-- 中文 (Chinese)
 - Čeština (Czech)
+- Deutsch (German)
+- Español (Spanish)
+- Français (French)
+- Italiano (Italian)
+- 한국어 (Korean)
+- Polski (Polish)
+- Português (Portuguese)
+- ไทย (Thai)
+- Türkçe (Turkish)
+- 中文 (Chinese)
 
 Want to help translate? [Join us on Crowdin](https://crowdin.com/project/hedgiemate/invite?h=bff10a865074daf9d4e08ef064507e982646816) and get a free Pro license!
 
