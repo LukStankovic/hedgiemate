@@ -34,8 +34,8 @@ HedgieMate is the most advanced native iOS Tesla analytics app, compatible with 
 
 <p align="center">
   <img src="docs/images/screenshots/app-preview-1.png" alt="Dashboard" width="200">
-  <img src="docs/images/screenshots/app-preview-2.png" alt="Drives" width="200">
-  <img src="docs/images/screenshots/app-preview-3.png" alt="Charging" width="200">
+  <img src="docs/images/screenshots/app-preview-2.png" alt="Charging" width="200">
+  <img src="docs/images/screenshots/app-preview-3.png" alt="Drives" width="200">
   <img src="docs/images/screenshots/app-preview-4.png" alt="Analytics" width="200">
 </p>
 
