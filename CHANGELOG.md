@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.18.3] - 2026-07-17
+
+### Added
+- Vehicle details decoded from your VIN: trim badge, factory and production info in vehicle status
+- Battery usage and average consumption shown on the fullscreen drive map
+- Average charging power shown alongside the charge rate on charge detail
+- Step through previous and next periods on the Charging and Driving screens
+- Optional per-connection trust for self-signed server certificates
+- Settings toggles to hide the EV vs gas comparison and AI insights
+
+### Fixed
+- Rare crash on Apple Watch when launching near your iPhone
+- Layout fixes on iPad, including two-pane drive and trip details on the 11" iPad
+- Ongoing trips stay fresh and refresh more smoothly
+- Charges list no longer clears after a failed first load
+- Connection edits no longer revert after relaunch
+- Smaller app size
+
 ## [1.18.2] - 2026-07-02
 
 ### Added
