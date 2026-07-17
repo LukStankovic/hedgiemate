@@ -3,7 +3,7 @@
 ## [1.18.3] - 2026-07-17
 
 ### Added
-- Vehicle details decoded from your VIN: trim badge, factory and production info in vehicle status
+- Model year, factory, drivetrain, and battery type shown in vehicle status
 - Battery usage and average consumption shown on the fullscreen drive map
 - Average charging power shown alongside the charge rate on charge detail
 - Step through previous and next periods on the Charging and Driving screens
