@@ -9,6 +9,8 @@
 - Step through previous and next periods on the Charging and Driving screens
 - Optional per-connection trust for self-signed server certificates
 - Settings toggles to hide the EV vs gas comparison and AI insights
+- Parking longer than a day now shows days in the Timeline
+- Trip suggestion cards can be dismissed with a visible close button
 
 ### Fixed
 - Rare crash on Apple Watch when launching near your iPhone
