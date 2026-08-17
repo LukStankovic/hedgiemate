@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.0.0] - 2026-08-17
+
+### Added
+- **Notifications**: alerts for charging, Sentry Mode, software updates, and more
+- **Live Activities**: your drives and charging live on the Lock Screen and in the Dynamic Island
+- Share a drive, charge or trip as an image, with the route map and the key numbers
+- Export drives and charges to CSV, or a drive's route to GPX
+
+### Fixed
+- Failed charge attempts no longer clutter the charges list
+- Drives, charges, and trips lists refresh on their own, no app restart needed
+- Various polish and bug fixes
+
 ## [1.18.3] - 2026-07-17
 
 ### Added
