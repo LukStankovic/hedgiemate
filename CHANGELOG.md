@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.0.2] - 2026-08-30
+
+### Fixed
+- Notifications and Live Activities update a little more reliably
+- Bug fixes and improvements on iPhone, iPad, Mac, Apple Watch and Apple Vision Pro
+- Better stability and performance
+
+## [2.0.1] - 2026-08-28
+
+### Added
+- Seven new languages: Norwegian, Dutch, Swedish, Danish, Finnish, Japanese and Hebrew
+- Live Activities can be switched on or off per device
+
+### Fixed
+- The car selector now marks the car you switched to
+- Electricity cost stays visible when the EV vs gas card is turned off
+- Further fixes to the drive list refresh
+
 ## [2.0.0] - 2026-08-17
 
 ### Added
