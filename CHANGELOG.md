@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.1.0] - 2026-09-13
+
+### Added
+- Live Activities can show your arrival time, or the time remaining, instead of the current speed
+- The main value is picked separately for a drive with a destination, a drive without one, and charging
+- Traditional Chinese language support
+
+### Fixed
+- A timeline that could turn a whole day of drives into one long parking stop
+- Various polish and bug fixes
+
 ## [2.0.2] - 2026-08-30
 
 ### Fixed
