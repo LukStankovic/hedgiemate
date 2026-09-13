@@ -6,6 +6,7 @@
 - Live Activities can show your arrival time, or the time remaining, instead of the current speed
 - The main value is picked separately for a drive with a destination, a drive without one, and charging
 - Traditional Chinese language support
+- Ready for iOS 27, macOS 27 and visionOS 27, still running on iOS 18
 
 ### Fixed
 - A timeline that could turn a whole day of drives into one long parking stop
