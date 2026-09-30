@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.1.1] - 2026-09-30
+
+### Fixed
+- Live Activities update more reliably and close on their own when a drive or charge stops reporting
+- Speed in Live Activities and in the speed statistics now shows in the right unit
+- The car pin on the map now points exactly at the car's location
+- Share cards are now shared as an image file, so more apps accept them
+- The large widget fits its frame on Mac
+
 ## [2.1.0] - 2026-09-13
 
 ### Added
