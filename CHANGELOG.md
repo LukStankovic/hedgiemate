@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.2.0] - 2026-10-13
+
+### Added
+- Notifications on MyTeslaMate now work with just your password, nothing to install
+- Two iPhones that share one setup can each pick their own notifications for every car
+- Ready for iPhone Duo
+
+### Fixed
+- Notification thresholds keep your changes
+- Various polish and bug fixes
+
 ## [2.1.1] - 2026-09-30
 
 ### Fixed
