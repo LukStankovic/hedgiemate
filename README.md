@@ -109,20 +109,31 @@ For detailed setup instructions, visit our [Setup Guide](https://hedgiemate.com/
 
 ## Languages
 
-HedgieMate is available in **12 languages**:
+HedgieMate is available in **23 languages**:
 
 - English
+- Български (Bulgarian)
 - Čeština (Czech)
+- Dansk (Danish)
 - Deutsch (German)
 - Español (Spanish)
 - Français (French)
 - Italiano (Italian)
-- 한국어 (Korean)
+- Nederlands (Dutch)
+- Norsk (Norwegian)
 - Polski (Polish)
 - Português (Portuguese)
-- ไทย (Thai)
+- Română (Romanian)
+- Slovenčina (Slovak)
+- Suomi (Finnish)
+- Svenska (Swedish)
 - Türkçe (Turkish)
-- 中文 (Chinese)
+- עברית (Hebrew)
+- ไทย (Thai)
+- 日本語 (Japanese)
+- 한국어 (Korean)
+- 简体中文 (Chinese, Simplified)
+- 繁體中文 (Chinese, Traditional)
 
 Want to help translate? <a href="https://translate.hedgiemate.com/" target="_blank" rel="noopener noreferrer">Join our translation community</a> and get a free Pro license!
 
