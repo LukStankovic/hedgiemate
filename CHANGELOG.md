@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.3.1] - 2026-11-18
+
+### Fixed
+- Drive maps and charts load again for drives where some recorded points are missing a value, such as speed or power
+
+## [2.3.0] - 2026-11-15
+
+### Added
+- Statistics show how much range your car loses while parked, per day and by place
+- Map route colors can be reversed for each metric
+- Romanian, Bulgarian and Slovak language support
+
+### Fixed
+- Statistics load even with older TeslaMate data
+- Smaller fixes
+
 ## [2.2.0] - 2026-10-13
 
 ### Added
